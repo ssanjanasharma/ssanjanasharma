@@ -12,7 +12,7 @@ WEB Developer • Problem Solver • IT Student • Tech Enthusiast
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
 
 - 💻 Web Developer passionate about building scalable and user-friendly applications
 - 🚀 Loves creating modern UI/UX with responsive design  
