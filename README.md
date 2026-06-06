@@ -72,28 +72,6 @@ WEB Developer • Problem Solver • Tech Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ssanjanasharma&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssanjanasharma&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjanasharma&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ssanjanasharma&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -107,15 +85,6 @@ WEB Developer • Problem Solver • Tech Enthusiast
 <p align="center">
   <img src="https://raw.githubusercontent.com/ssanjanasharma/ssanjanasharma/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
-
----
-
-# 🎧 Coding Vibes
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-</p>
-
 ---
 
 <h3 align="center">
