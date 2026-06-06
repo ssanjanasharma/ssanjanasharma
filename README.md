@@ -85,6 +85,7 @@ WEB Developer • Problem Solver • Tech Enthusiast
 <p align="center">
   <img src="https://raw.githubusercontent.com/ssanjanasharma/ssanjanasharma/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
+
 ---
 
 <h3 align="center">
