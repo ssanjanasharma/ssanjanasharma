@@ -1,23 +1,35 @@
+<p align="center">
+<img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
 
 <h3 align="center">
-WEB Developer • Problem Solver • IT Student • Tech Enthusiast
+WEB Developer • Problem Solver • Tech Enthusiast
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+New+Tech+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ssanjanasharma&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-pink?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Sleep-Repeat-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge"/>
+</p>
+
 ---
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
-
 - 💻 Web Developer passionate about building scalable and user-friendly applications
 - 🚀 Loves creating modern UI/UX with responsive design  
 - 🧠 Strong foundation in **HTML, CSS, JavaScript**  
-- 🎯 Focused on solving real-world problems through technology  
+- 🎯 Focused on solving real-world problems through technology 
 
 <br clear="right"/>
 
@@ -45,17 +57,26 @@ WEB Developer • Problem Solver • IT Student • Tech Enthusiast
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nextjs" />
 </p>
 
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### ☁️ Deployment & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,vscode" />
 </p>
 
-
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ssanjanasharma&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
@@ -81,10 +102,18 @@ WEB Developer • Problem Solver • IT Student • Tech Enthusiast
 
 ---
 
-# ✨ Random Dev Quote
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/ssanjanasharma/ssanjanasharma/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
+# 🎧 Coding Vibes
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
 </p>
 
 ---
