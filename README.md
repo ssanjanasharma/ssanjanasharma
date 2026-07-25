@@ -89,5 +89,5 @@ WEB Developer • Problem Solver • Tech Enthusiast
 ---
 
 <h3 align="center">
-⚡ Building ideas into reality, one commit at a time 🚀
+⚡ Building ideas into reality 🚀
 </h3>
