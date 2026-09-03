@@ -60,11 +60,6 @@ WEB Developer • Problem Solver • Tech Enthusiast
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nextjs" />
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
 ### ☁️ Deployment & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,vscode" />
